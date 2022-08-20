@@ -12,8 +12,8 @@
   3. [Usage](#usage)
   4. [License](#license)
   5. [Contributors](#contributors)
-  6. [Tests](#tests)
-  7. [Questions](#questions)
+  6. [Questions](#questions)
+  7. [Preview](#preview)
   
   
   ## Installation
@@ -22,21 +22,21 @@
   
   ## Usage
   
-  Open the terminal in the correct path and enter "node index.js" in order to start the app.
+  Open the terminal in the correct path and enter "node server.js" in order to start the app.
   
   ## License
   This project is protected under the MIT License.
   
   ## Contributors
   
-  [Aaron Hernandez](https://github.com/Aaron Hernandez)
-  
-  ## Tests
-  
-  Try this app for yourself!
+  [Aaron Hernandez](https://github.com/aaronhdm)
   
   ## Questions
   
   If you have any questions about this application you may email me at aaronhdm@gmail.com.
-  Or you may reach out at my GitHub: [Aaron Hernandez](https://github.com/Aaron Hernandez).
+  Or you may reach out at my GitHub: [Aaron Hernandez](https://github.com/aaronhdm).
+  
+  ## Preview
+  
+  ![note-taker-preview](https://user-images.githubusercontent.com/107087837/185764427-b12e87e2-6c29-45f3-91ed-b1d406bbd6e3.png)
   
