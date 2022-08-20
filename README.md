@@ -1,6 +1,8 @@
 # note-taker-app
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   
+  Deployed Link: https://note-taker-appppp.herokuapp.com/
+  
   ## Description
   
   An application that can be used to write and save notes on your web browser. This application utilizes Express.js & Node.js.
